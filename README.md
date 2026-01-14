@@ -1,70 +1,60 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+=======
+# 🎯 React Quiz Application
 
-## Available Scripts
+The React Quiz Application is a dynamic and interactive web app designed to provide an engaging quiz experience. It displays multiple-choice questions with a countdown timer, automatically moves to the next question when time runs out, calculates the final score, and allows users to retake the quiz without reloading the page.
 
-In the project directory, you can run:
+This project was built to practice and demonstrate real-world frontend development skills using React.
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🌟 Overview
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+The React Quiz Application provides a modern quiz experience with real-time interaction. Each question is time-bound, making the quiz more engaging and challenging. The app keeps track of the user’s score and displays the final result at the end. A **Retake Quiz** option lets users start again and improve their performance.
 
-### `npm test`
+This project highlights key frontend development concepts such as **React components, hooks, state management, and responsive UI design**, making it a strong addition to a developer’s portfolio.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+## 🚀 Features
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- ⏱️ Timer for each question  
+- 🧠 Multiple-choice questions  
+- 🔄 Automatic next question on time out  
+- 📊 Real-time score tracking  
+- 🔁 Retake quiz option  
+- 🎨 Clean and responsive UI  
+- ⚡ Fast and dynamic rendering  
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🛠️ Technologies Used
 
-### `npm run eject`
+- React.js  
+- JavaScript  
+- HTML  
+- CSS
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+ ---
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+📌 Learning Outcomes
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Built a complete React application from scratch
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Gained hands-on experience with React Hooks (useState, useEffect)
 
-## Learn More
+Implemented timers and dynamic UI updates
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Learned component-based architecture
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Deployed a React app using GitHub Pages
 
-### Code Splitting
+👩‍💻 Author
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Kovuri Triveni
+Electronics & Instrumentation Engineering Graduate (2025)
 
-### Analyzing the Bundle Size
+Passionate about Frontend Development and Software Engineering
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+>>>>>>> 4452fb99149a87d02c0b32382c7ac6e79986af68
