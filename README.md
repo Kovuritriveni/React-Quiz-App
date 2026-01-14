@@ -56,5 +56,3 @@ Electronics & Instrumentation Engineering Graduate (2025)
 
 Passionate about Frontend Development and Software Engineering
 
-
->>>>>>> 4452fb99149a87d02c0b32382c7ac6e79986af68
